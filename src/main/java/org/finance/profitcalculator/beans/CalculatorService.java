@@ -15,6 +15,7 @@ public class CalculatorService {
 
     /**
      * Returns the maximum profit based on the stock prices passed in.
+     * Time complexity O(n).
      *
      * @param stockPrices array of stock prices for every minute in the order of occurrence
      * @return maximum profit calculated
